@@ -1,2 +1,1 @@
-#!/bin/bash
-Hello, World
+-m #!/bin/bash\necho Hello, World
