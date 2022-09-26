@@ -18,4 +18,6 @@ load balancer on to manage both web servers.
   * [1-install_load_balancer](./1-install_load_balancer): Bash script that
   installs and configures HAproxy version 1.5 on a server.
     * Enables management via the init script.
+alx sooo cool
+
     * Requests are distributed using a round-robin algorithm.
