@@ -1,7 +1,5 @@
 # 0x0E. Web stack debugging #1
 
-
-
 ## Table of contents
 Files | Description
 ----- | -----------
